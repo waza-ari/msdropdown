@@ -1,5 +1,5 @@
 {
-    "name": "wazaari/ms-dropdown",
+    "name": "components/ms-dropdown",
     "description": "Image dropdown - convert your dropdown to image dropdown",
     "keywords": ["jquery", "dropdown", "image"],
     "homepage": "http://www.marghoobsuleman.com/jquery-image-dropdown",
