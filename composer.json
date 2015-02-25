@@ -1,0 +1,39 @@
+{
+    "name": "wazaari/ms-Dropdown",
+    "description": "Image dropdown - convert your dropdown to image dropdown",
+    "keywords": ["jquery", "dropdown", "image"],
+    "homepage": "http://www.marghoobsuleman.com/jquery-image-dropdown",
+    "license": "MIT",
+	"type": "component",
+    "authors": [
+        {
+            "name": "Marghoob Soleman",
+            "email": "info@marghoobsuleman.com"
+        },
+    ],
+    "require": {
+        "robloach/component-installer": "*",
+		"components/jquery": ">1.8"
+    },
+    "extra": {
+        "component": {
+            "scripts": [
+                "js/msdropdown/jquery.dd.js"
+            ],
+            "styles": [
+                "css/msdropdown/dd.css",
+                "css/msdropdown/flags.css",
+                "css/msdropdown/skin2.css",
+                "css/msdropdown/sprite.css"
+            ],
+            "files": [
+                "js/msdropdown/jquery.dd.min.js",
+                "images/msdropdown/icons/*.png",
+                "images/msdropdown/icons/*.gif",
+                "images/msdropdown/icons/*.jpg",
+				"images/msdropdown/skin1/*.gif",
+				"images/msdropdown/skin2/*.gif"
+            ]
+        }
+    }
+}
